@@ -133,6 +133,7 @@ always looking for:
 
 hit me up. or don't. i'll probably be staring at ghidra anyway.
 
+Signal: https://signal.me/#eu/xNeo.77
 ---
 
 ## disclaimer
