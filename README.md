@@ -148,5 +148,5 @@ stay curious
 stay safe
 stay weird
 
-— AnonNeo77
+— 0xNeo77
 ```
