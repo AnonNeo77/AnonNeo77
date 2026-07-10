@@ -85,14 +85,14 @@ reverse-engineering | binary-analysis | ctf | ghidra | radare2 | malware-analysi
 
 ## how i work
 
-| tool | language | what i use it for |
-|------|----------|-------------------|
-| **Ghidra** | — | decompilation, when you need to actually understand code |
-| **Radare2** | — | lightweight analysis, scripting automation |
-| **GDB** | — | debugging, dynamic analysis, watching things execute |
-| **x64dbg** | — | windows reversing, when you have to go there |
-| **Python** | — | everything else. tools, scripts, automation |
-| **Assembly** | x64/ARM | when you're reading the real stuff |
+| tool | what i use it for |
+|----------------|-------------------|
+| **Ghidra** | decompilation, when you need to actually understand code |
+| **Radare2** | lightweight analysis, scripting automation |
+| **GDB** | debugging, dynamic analysis, watching things execute |
+| **x64dbg** | windows reversing, when you have to go there |
+| **Python** | everything else. tools, scripts, automation |
+| **Assembly** | when you're reading the real stuff |
 
 ---
 
