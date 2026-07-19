@@ -1,25 +1,18 @@
 # hey, i'm 0xNeo77
 
 ```
-   ___                 _   _            
-  / _ | ___  ___  ___ | \ | | ___  ___  
- / / | |/ __|/ _ \/ _ \|  \| |/ _ \/ _ \ 
-/ /__| |\__ \ (_) | (_) | |\  | (_) | (_) |
-\____/_||___/\___/ \___/|_| \_|\___/ \___/
+   _______________________
+  /                       \
+ |        0xNeo77         |
+  \_______________________/
                                            
-a security researcher. sometimes i reverse things.
-other times things reverse me.
-
-currently: digging into kernel-level chaos
-status: always learning | never stopping
-
 ```
 
 ---
 
 ## who am i?
 
-i spend my time staring at assembly code, finding rootkits that shouldn't exist, and breaking things open to understand them. linux kernel modules, android firmware, binary reversing—it's all just puzzles waiting to be solved.
+i spend my time staring at assembly code, finding rootkits that shouldn't exist, and breaking things open to understand them. linux kernel modules, android firmware, binary reversing—it's all ju[...]
 
 the kind of person who reads disassembly for fun. no judgment if you do too.
 
@@ -40,7 +33,7 @@ essentially: i take things apart, see how they're built, and document what i fin
 ## the projects
 
 ### [koaudit](https://github.com/AnonNeo77/koaudit) — kernel module auditor
-static analysis tool for finding suspicious behavior in linux kernel modules. if your kernel module looks like a rootkit, this will probably catch it. or at least make you paranoid enough to check twice.
+static analysis tool for finding suspicious behavior in linux kernel modules. if your kernel module looks like a rootkit, this will probably catch it. or at least make you paranoid enough to check[...]
 
 **why it exists:** because understanding what's actually running in your kernel matters.
 
@@ -151,4 +144,6 @@ stay safe
 stay weird
 
 — 0xNeo77
+```
+
 ```
